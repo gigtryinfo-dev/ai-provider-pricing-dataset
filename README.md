@@ -48,7 +48,7 @@ Included are providers such as OpenAI, Anthropic, Google, Groq, Mistral, xAI, De
 
 ## Why we published this
 
-[GigTry](https://www.gigtry.com) runs a multi-provider AI platform (89 AI tools, 4,450+ localized pages) and needed a normalized cost model across every major AI vendor to keep tools affordable and sustainable. The normalized view is shared here so other builders don't have to repeat the research. Try the free tools at [www.gigtry.com/tools](https://www.gigtry.com/tools) — no signup required for most tools.
+[GigTry](https://www.gigtry.com) runs a multi-provider AI platform (89 AI tools, 4,450+ localized pages) and needed a normalized cost model across every major AI vendor to keep tools affordable and sustainable. The normalized view is shared here so other builders don't have to repeat the research. Try the free tools at [www.gigtry.com/tools](https://www.gigtry.com/tools) — free account (no credit card required).
 
 ## License
 
